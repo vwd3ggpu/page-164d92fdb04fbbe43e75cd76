@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a.wuzhouplas.cn/sitemap.xml
